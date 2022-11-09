@@ -320,5 +320,4 @@ $
 
 ## Authors ##
 
-👤 **Yonas Leykun**
-
+👤 Forster Asamany / Emmanuel Yeboah Manu
